@@ -1,0 +1,7 @@
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Matrix\bin\Debug\Dasmic.MLLib.Exceptions.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Matrix\bin\Debug\Dasmic.MLLib.Exceptions.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Matrix\obj\Debug\Dasmic.MLLib.Matrix.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Matrix\bin\Debug\Dasmic.MLLib.Matrix.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Matrix\bin\Debug\Dasmic.MLLib.Matrix.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Matrix\obj\Debug\Dasmic.MLLib.Matrix.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Matrix\obj\Debug\Dasmic.MLLib.Matrix.pdb

@@ -1,0 +1,11 @@
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Bayesian\obj\Debug\Dasmic.MLLib.Bayesian.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Bayesian\bin\Debug\Dasmic.MLLib.Bayesian.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Bayesian\bin\Debug\Dasmic.MLLib.Bayesian.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Bayesian\bin\Debug\Dasmic.MLLib.Exceptions.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Bayesian\bin\Debug\Dasmic.MLLib.MLCore.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Bayesian\bin\Debug\Dasmic.MLLib.Statistics.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Bayesian\bin\Debug\Dasmic.MLLib.Exceptions.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Bayesian\bin\Debug\Dasmic.MLLib.MLCore.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Bayesian\bin\Debug\Dasmic.MLLib.Statistics.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Bayesian\obj\Debug\Dasmic.MLLib.Bayesian.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.Bayesian\obj\Debug\Dasmic.MLLib.Bayesian.pdb

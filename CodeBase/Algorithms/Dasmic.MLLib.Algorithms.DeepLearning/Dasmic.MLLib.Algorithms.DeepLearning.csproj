@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <MinimumVisualStudioVersion>10.0</MinimumVisualStudioVersion>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D3074A36-0FD5-4AFF-AD13-F1DA7B697D18}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Dasmic.MLLib.Algorithms.DeepLearning</RootNamespace>
+    <AssemblyName>Dasmic.MLLib.Algorithms.DeepLearning</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkProfile>Profile7</TargetFrameworkProfile>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .NET Framework is automatically included -->
+    <ProjectReference Include="..\..\Common\Dasmic.MLLib.Common.Exceptions\Dasmic.MLLib.Common.Exceptions.csproj">
+      <Project>{eb918967-271b-4fa3-b0d4-08ee0bbfd691}</Project>
+      <Name>Dasmic.MLLib.Common.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Dasmic.MLLib.Common.MLCore\Dasmic.MLLib.Common.MLCore.csproj">
+      <Project>{75f34cd7-e4ea-4231-8696-170619009a35}</Project>
+      <Name>Dasmic.MLLib.Common.MLCore</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Dasmic.Portable.Core\Dasmic.Portable.Core.csproj">
+      <Project>{4b732dd3-7ca2-49b8-9984-49e749b006a2}</Project>
+      <Name>Dasmic.Portable.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dasmic.MLLib.Algorithms.NeuralNetwork\Dasmic.MLLib.Algorithms.NeuralNetwork.csproj">
+      <Project>{593079c2-0e07-403d-aafa-3baed1ac5e3f}</Project>
+      <Name>Dasmic.MLLib.Algorithms.NeuralNetwork</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Build\BuildConvNetBase.cs" />
+    <Compile Include="Build\BuildStandardConvNet.cs" />
+    <Compile Include="Build\BuildGenericDeepNN.cs" />
+    <Compile Include="Build\BuildReccurentNet.cs" />
+    <Compile Include="Model\ModelConvNetBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Support\LayerBase.cs" />
+    <Compile Include="Support\SingleFullyConnectedLayer.cs" />
+    <Compile Include="Support\UnitBase.cs" />
+    <Compile Include="Support\PoolingFunction\IPoolingFunction.cs" />
+    <Compile Include="Support\PoolingFunction\AveragePooling.cs" />
+    <Compile Include="Support\PoolingFunction\MaxPooling.cs" />
+    <Compile Include="Support\SingleConvolutionLayer.cs" />
+    <Compile Include="Support\SingleConvolutionLayerInput.cs" />
+    <Compile Include="Support\SingleFilterUnit.cs" />
+    <Compile Include="Support\SinglePoolingLayer.cs" />
+    <Compile Include="Support\SinglePoolingUnit.cs" />
+    <Compile Include="Support\SinglePoolLayer.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
+</Project>

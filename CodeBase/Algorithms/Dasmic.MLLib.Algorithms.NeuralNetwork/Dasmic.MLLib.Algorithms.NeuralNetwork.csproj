@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <MinimumVisualStudioVersion>10.0</MinimumVisualStudioVersion>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{593079C2-0E07-403D-AAFA-3BAED1AC5E3F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Dasmic.MLLib.Algorithms.NeuralNetwork</RootNamespace>
+    <AssemblyName>Dasmic.MLLib.Algorithms.NeuralNetwork</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkProfile>Profile7</TargetFrameworkProfile>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .NET Framework is automatically included -->
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Build\Build2LBackPropagation.cs" />
+    <Compile Include="Build\BuildBackPropagationBase.cs" />
+    <Compile Include="Build\BuildBase.cs" />
+    <Compile Include="Build\BuildGenericBackPropagationRprop.cs" />
+    <Compile Include="Build\BuildGenericBackPropagationStandard.cs" />
+    <Compile Include="Build\BuildMultiUnitPerceptronSGD.cs" />
+    <Compile Include="Build\BuildPerceptronBase.cs" />
+    <Compile Include="Build\BuildSingleUnitPerceptronSGD.cs" />
+    <Compile Include="Model\ModelBase.cs" />
+    <Compile Include="Model\ModelMultiUnitPerceptron.cs" />
+    <Compile Include="Model\ModelBackPropagationBase.cs" />
+    <Compile Include="Model\ModelSingleUnitPerceptron.cs" />
+    <Compile Include="Model\ModelPerceptronBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Support\ActivationFunction\Linear.cs" />
+    <Compile Include="Support\ActivationFunction\HyperbolicTangent.cs" />
+    <Compile Include="Support\ActivationFunction\RectifiedLinearUnit.cs" />
+    <Compile Include="Support\ActivationFunction\Softmax.cs" />
+    <Compile Include="Support\ActivationFunction\Step.cs" />
+    <Compile Include="Support\ActivationFunction\Sigmoid.cs" />
+    <Compile Include="Support\SingleLayer.cs" />
+    <Compile Include="Support\ActivationFunction\IActivationFunction.cs" />
+    <Compile Include="Support\SingleLayerInput.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\Dasmic.MLLib.Common.Exceptions\Dasmic.MLLib.Common.Exceptions.csproj">
+      <Project>{eb918967-271b-4fa3-b0d4-08ee0bbfd691}</Project>
+      <Name>Dasmic.MLLib.Common.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Dasmic.MLLib.Common.MLCore\Dasmic.MLLib.Common.MLCore.csproj">
+      <Project>{75f34cd7-e4ea-4231-8696-170619009a35}</Project>
+      <Name>Dasmic.MLLib.Common.MLCore</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
+</Project>

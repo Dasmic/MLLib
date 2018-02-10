@@ -1,0 +1,13 @@
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NearestNeighbour\bin\Debug\Dasmic.MLLib.Algorithms.NearestNeighbour.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NearestNeighbour\bin\Debug\Dasmic.MLLib.Algorithms.NearestNeighbour.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NearestNeighbour\bin\Debug\Dasmic.MLLib.Common.Exceptions.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NearestNeighbour\bin\Debug\Dasmic.MLLib.Common.MLCore.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NearestNeighbour\bin\Debug\Dasmic.MLLib.Math.Statistics.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NearestNeighbour\bin\Debug\Dasmic.MLLib.Common.Exceptions.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NearestNeighbour\bin\Debug\Dasmic.MLLib.Common.MLCore.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NearestNeighbour\bin\Debug\Dasmic.MLLib.Math.Statistics.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NearestNeighbour\obj\Debug\Dasmic.MLLib.Algorithms.NearestNeighbour.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NearestNeighbour\obj\Debug\Dasmic.MLLib.Algorithms.NearestNeighbour.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NearestNeighbour\obj\Debug\Dasmic.MLLib.Algorithms.NearestNeighbour.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NearestNeighbour\bin\Debug\Dasmic.Portable.Core.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NearestNeighbour\bin\Debug\Dasmic.Portable.Core.pdb

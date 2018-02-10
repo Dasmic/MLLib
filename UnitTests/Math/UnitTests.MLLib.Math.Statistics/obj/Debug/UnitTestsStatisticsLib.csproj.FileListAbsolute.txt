@@ -1,0 +1,26 @@
+C:\Users\Chaitanya Belwal\Documents\Visual Studio 2015\Projects\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\UnitTestsStatisticsLib.dll
+C:\Users\Chaitanya Belwal\Documents\Visual Studio 2015\Projects\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\UnitTestsStatisticsLib.pdb
+C:\Users\Chaitanya Belwal\Documents\Visual Studio 2015\Projects\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Chaitanya Belwal\Documents\Visual Studio 2015\Projects\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\StatisticsLib.dll
+C:\Users\Chaitanya Belwal\Documents\Visual Studio 2015\Projects\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\StatisticsLib.pdb
+C:\Users\Chaitanya Belwal\Documents\Visual Studio 2015\Projects\MachineLearning\UnitTests\UnitTestsStatisticsLib\obj\Debug\UnitTestsStatisticsLib.csprojResolveAssemblyReference.cache
+C:\Users\Chaitanya Belwal\Documents\Visual Studio 2015\Projects\MachineLearning\UnitTests\UnitTestsStatisticsLib\obj\Debug\UnitTestsStatisticsLib.dll
+C:\Users\Chaitanya Belwal\Documents\Visual Studio 2015\Projects\MachineLearning\UnitTests\UnitTestsStatisticsLib\obj\Debug\UnitTestsStatisticsLib.pdb
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\UnitTestsStatisticsLib.dll
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\UnitTestsStatisticsLib.pdb
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\StatisticsLib.dll
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\StatisticsLib.pdb
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\obj\Debug\UnitTestsStatisticsLib.csprojResolveAssemblyReference.cache
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\obj\Debug\UnitTestsStatisticsLib.dll
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\obj\Debug\UnitTestsStatisticsLib.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\UnitTestsStatisticsLib.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\UnitTestsStatisticsLib.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\obj\Debug\UnitTestsStatisticsLib.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\obj\Debug\UnitTestsStatisticsLib.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\obj\Debug\UnitTestsStatisticsLib.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\Dasmic.MLLib.Statistics.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\Dasmic.MLLib.Exceptions.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\Dasmic.MLLib.Statistics.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsStatisticsLib\bin\Debug\Dasmic.MLLib.Exceptions.pdb

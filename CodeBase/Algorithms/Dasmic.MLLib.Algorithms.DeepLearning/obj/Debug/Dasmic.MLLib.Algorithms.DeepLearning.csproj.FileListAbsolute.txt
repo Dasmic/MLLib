@@ -1,0 +1,15 @@
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\obj\Debug\Dasmic.MLLib.Algorithms.DeepLearning.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\bin\Debug\Dasmic.MLLib.Algorithms.DeepLearning.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\bin\Debug\Dasmic.MLLib.Algorithms.DeepLearning.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\bin\Debug\Dasmic.MLLib.Algorithms.NeuralNetwork.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\bin\Debug\Dasmic.MLLib.Common.MLCore.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\bin\Debug\Dasmic.Portable.Core.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\bin\Debug\Dasmic.MLLib.Common.Exceptions.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\bin\Debug\Dasmic.MLLib.Math.Statistics.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\bin\Debug\Dasmic.MLLib.Common.MLCore.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\bin\Debug\Dasmic.Portable.Core.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\bin\Debug\Dasmic.MLLib.Algorithms.NeuralNetwork.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\bin\Debug\Dasmic.MLLib.Common.Exceptions.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\bin\Debug\Dasmic.MLLib.Math.Statistics.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\obj\Debug\Dasmic.MLLib.Algorithms.DeepLearning.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.DeepLearning\obj\Debug\Dasmic.MLLib.Algorithms.DeepLearning.pdb

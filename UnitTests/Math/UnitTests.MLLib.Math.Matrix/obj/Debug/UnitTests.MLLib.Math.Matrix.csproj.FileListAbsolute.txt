@@ -1,0 +1,12 @@
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Math\UnitTests.MLLib.Math.Matrix\obj\Debug\UnitTests.MLLib.Math.Matrix.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Math\UnitTests.MLLib.Math.Matrix\obj\Debug\UnitTests.MLLib.Algorithms.Matrix.dll
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Math\UnitTests.MLLib.Math.Matrix\obj\Debug\UnitTests.MLLib.Algorithms.Matrix.pdb
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Math\UnitTests.MLLib.Math.Matrix\bin\Debug\UnitTests.MLLib.Algorithms.Matrix.dll
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Math\UnitTests.MLLib.Math.Matrix\bin\Debug\UnitTests.MLLib.Algorithms.Matrix.pdb
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Math\UnitTests.MLLib.Math.Matrix\bin\Debug\Dasmic.MLLib.Common.Exceptions.dll
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Math\UnitTests.MLLib.Math.Matrix\bin\Debug\Dasmic.MLLib.Math.Matrix.dll
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Math\UnitTests.MLLib.Math.Matrix\bin\Debug\Dasmic.Portable.Core.dll
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Math\UnitTests.MLLib.Math.Matrix\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Math\UnitTests.MLLib.Math.Matrix\bin\Debug\Dasmic.MLLib.Common.Exceptions.pdb
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Math\UnitTests.MLLib.Math.Matrix\bin\Debug\Dasmic.Portable.Core.pdb
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Math\UnitTests.MLLib.Math.Matrix\bin\Debug\Dasmic.MLLib.Math.Matrix.pdb

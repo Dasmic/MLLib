@@ -1,0 +1,28 @@
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\UnitTestsDecisionTreeLib.dll
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\UnitTestsDecisionTreeLib.pdb
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\obj\Debug\UnitTestsDecisionTreeLib.dll
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\obj\Debug\UnitTestsDecisionTreeLib.pdb
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\obj\Debug\UnitTestsDecisionTreeLib.csprojResolveAssemblyReference.cache
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\DecisionTreeLib.dll
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\MLCore.dll
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\StatisticsLib.dll
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\ExceptionsLib.dll
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\DecisionTreeLib.pdb
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\MLCore.pdb
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\StatisticsLib.pdb
+C:\Users\Chaitanya Belwal\Documents\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\ExceptionsLib.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\UnitTestsDecisionTreeLib.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\UnitTestsDecisionTreeLib.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\obj\Debug\UnitTestsDecisionTreeLib.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\obj\Debug\UnitTestsDecisionTreeLib.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\obj\Debug\UnitTestsDecisionTreeLib.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\Dasmic.MLLib.DecisionTree.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\Dasmic.MLLib.MLCore.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\Dasmic.MLLib.Statistics.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\Dasmic.MLLib.Exceptions.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\Dasmic.MLLib.DecisionTree.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\Dasmic.MLLib.MLCore.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\Dasmic.MLLib.Statistics.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\UnitTestsDecisionTreeLib\bin\Debug\Dasmic.MLLib.Exceptions.pdb

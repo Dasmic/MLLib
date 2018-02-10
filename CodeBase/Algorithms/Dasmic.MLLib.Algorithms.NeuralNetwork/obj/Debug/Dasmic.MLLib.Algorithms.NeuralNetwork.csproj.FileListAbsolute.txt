@@ -1,0 +1,13 @@
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NeuralNetwork\bin\Debug\Dasmic.MLLib.Algorithms.NeuralNetwork.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NeuralNetwork\bin\Debug\Dasmic.MLLib.Algorithms.NeuralNetwork.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NeuralNetwork\obj\Debug\Dasmic.MLLib.Algorithms.NeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NeuralNetwork\obj\Debug\Dasmic.MLLib.Algorithms.NeuralNetwork.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NeuralNetwork\obj\Debug\Dasmic.MLLib.Algorithms.NeuralNetwork.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NeuralNetwork\bin\Debug\Dasmic.MLLib.Common.Exceptions.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NeuralNetwork\bin\Debug\Dasmic.MLLib.Common.MLCore.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NeuralNetwork\bin\Debug\Dasmic.Portable.Core.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NeuralNetwork\bin\Debug\Dasmic.MLLib.Math.Statistics.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NeuralNetwork\bin\Debug\Dasmic.MLLib.Common.Exceptions.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NeuralNetwork\bin\Debug\Dasmic.MLLib.Common.MLCore.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NeuralNetwork\bin\Debug\Dasmic.Portable.Core.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.NeuralNetwork\bin\Debug\Dasmic.MLLib.Math.Statistics.pdb

@@ -1,0 +1,7 @@
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Statistics\obj\Debug\Dasmic.MLLib.Math.Statistics.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Statistics\bin\Debug\Dasmic.MLLib.Math.Statistics.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Statistics\bin\Debug\Dasmic.MLLib.Math.Statistics.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Statistics\bin\Debug\Dasmic.MLLib.Common.Exceptions.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Statistics\bin\Debug\Dasmic.MLLib.Common.Exceptions.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Statistics\obj\Debug\Dasmic.MLLib.Math.Statistics.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Statistics\obj\Debug\Dasmic.MLLib.Math.Statistics.pdb

@@ -1,0 +1,1 @@
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.Core\obj\Debug\Dasmic.Core.csprojResolveAssemblyReference.cache

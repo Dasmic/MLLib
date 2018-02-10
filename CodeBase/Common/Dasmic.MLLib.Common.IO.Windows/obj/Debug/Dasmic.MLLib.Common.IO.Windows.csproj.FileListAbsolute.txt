@@ -1,0 +1,16 @@
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.IO.Windows\bin\Debug\Dasmic.MLLib.Common.IO.Windows.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.IO.Windows\bin\Debug\Dasmic.MLLib.Common.IO.Windows.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.IO.Windows\bin\Debug\Dasmic.MLLib.Common.IO.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.IO.Windows\bin\Debug\Dasmic.MLLib.Common.IO.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.IO.Windows\obj\Debug\Dasmic.MLLib.Common.IO.Windows.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.IO.Windows\obj\Debug\Dasmic.MLLib.Common.IO.Windows.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.IO.Windows\obj\Debug\Dasmic.MLLib.Common.IO.Windows.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.IO.Windows\obj\Debug\Dasmic.MLLib.Common.IO.Windows.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.IO.Windows\obj\Debug\Dasmic.MLLib.Common.IO.Windows.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.IO.Windows\obj\Debug\Dasmic.MLLib.Common.IO.Windows.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.IO.Windows\bin\Debug\Dasmic.MLLib.Common.IO.Windows.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.IO.Windows\bin\Debug\Dasmic.MLLib.Common.IO.Windows.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.IO.Windows\bin\Debug\Dasmic.MLLib.Common.IO.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.IO.Windows\bin\Debug\Dasmic.MLLib.Common.IO.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.IO.Windows\bin\Debug\Dasmic.MLLib.Common.Exceptions.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.IO.Windows\bin\Debug\Dasmic.MLLib.Common.Exceptions.pdb

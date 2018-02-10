@@ -1,0 +1,7 @@
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.DataManagement\bin\Debug\Dasmic.MLLib.Common.DataManagement.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.DataManagement\bin\Debug\Dasmic.MLLib.Common.DataManagement.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.DataManagement\obj\Debug\Dasmic.MLLib.Common.DataManagement.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.DataManagement\obj\Debug\Dasmic.MLLib.Common.DataManagement.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.DataManagement\obj\Debug\Dasmic.MLLib.Common.DataManagement.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.DataManagement\bin\Debug\Dasmic.Portable.Core.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.DataManagement\bin\Debug\Dasmic.Portable.Core.pdb

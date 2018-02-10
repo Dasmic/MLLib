@@ -1,0 +1,10 @@
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Math\obj\Debug\UnitTests.MLLib.Algorithms.Math.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Math\bin\Debug\UnitTests.MLLib.Algorithms.Math.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Math\bin\Debug\UnitTests.MLLib.Algorithms.Math.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Math\bin\Debug\Dasmic.MLLib.Math.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Math\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Math\bin\Debug\Dasmic.MLLib.Exceptions.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Math\bin\Debug\Dasmic.MLLib.Math.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Math\bin\Debug\Dasmic.MLLib.Exceptions.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Math\obj\Debug\UnitTests.MLLib.Algorithms.Math.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Math\obj\Debug\UnitTests.MLLib.Algorithms.Math.pdb

@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETPortable,Version=v4.5,Profile=Profile111": {
+      "Dasmic.MLLib.Common.Exceptions/1.0.0": {
+        "type": "project"
+      }
+    }
+  },
+  "libraries": {
+    "Dasmic.MLLib.Common.Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../../Common/Dasmic.MLLib.Common.Exceptions/Dasmic.MLLib.Common.Exceptions.csproj",
+      "msbuildProject": "../../Common/Dasmic.MLLib.Common.Exceptions/Dasmic.MLLib.Common.Exceptions.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "": [],
+    ".NETPortable,Version=v4.5,Profile=Profile111": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Chaitanya Belwal\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "restore": {
+      "projectUniqueName": "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Math\\Dasmic.MLLib.Math.Statistics\\Dasmic.MLLib.Math.Statistics.csproj",
+      "projectName": "Dasmic.MLLib.Math.Statistics",
+      "projectPath": "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Math\\Dasmic.MLLib.Math.Statistics\\Dasmic.MLLib.Math.Statistics.csproj",
+      "projectJsonPath": "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Math\\Dasmic.MLLib.Math.Statistics\\project.json",
+      "projectStyle": "ProjectJson",
+      "frameworks": {
+        "portable45-net45+win8+wpa81": {
+          "projectReferences": {
+            "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Common\\Dasmic.MLLib.Common.Exceptions\\Dasmic.MLLib.Common.Exceptions.csproj": {
+              "projectPath": "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Common\\Dasmic.MLLib.Common.Exceptions\\Dasmic.MLLib.Common.Exceptions.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "portable45-net45+win8+wpa81": {}
+    }
+  }
+}

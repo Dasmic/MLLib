@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <MinimumVisualStudioVersion>10.0</MinimumVisualStudioVersion>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F39AD4BE-201C-4CBC-868D-6D8B82877DB7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dasmic.MLLib.Math.Matrix</RootNamespace>
+    <AssemblyName>Dasmic.MLLib.Math.Matrix</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkProfile>Profile111</TargetFrameworkProfile>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="MatrixOperations.cs" />
+    <Compile Include="MatrixOperations_Adjucate.cs" />
+    <Compile Include="MatrixOperations_Cofactor.cs" />
+    <Compile Include="MatrixOperations_Determinant.cs" />
+    <Compile Include="MatrixOperations_EigenValue.cs" />
+    <Compile Include="MatrixOperations_Hessenberg.cs" />
+    <Compile Include="MatrixOperations_Identity.cs" />
+    <Compile Include="MatrixOperations_Inverse.cs" />
+    <Compile Include="MatrixOperations_QR_GivensRotation.cs" />
+    <Compile Include="MatrixOperations_QR_Householder.cs" />
+    <Compile Include="MatrixOperations_QR_Hessenberg_Givens.cs" />
+    <Compile Include="MatrixOperations_LU.cs" />
+    <Compile Include="MatrixOperations_Substract.cs" />
+    <Compile Include="MatrixOperations_Transpose.cs" />
+    <Compile Include="MatrixOperations_Multiply.cs" />
+    <Compile Include="MatrixOperations_Scalar.cs" />
+    <Compile Include="MatrixOperations_LinearEquationSolver.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="project.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\Dasmic.MLLib.Common.Exceptions\Dasmic.MLLib.Common.Exceptions.csproj">
+      <Project>{eb918967-271b-4fa3-b0d4-08ee0bbfd691}</Project>
+      <Name>Dasmic.MLLib.Common.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Dasmic.Portable.Core\Dasmic.Portable.Core.csproj">
+      <Project>{4b732dd3-7ca2-49b8-9984-49e749b006a2}</Project>
+      <Name>Dasmic.Portable.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,10 @@
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.IO\bin\Debug\Dasmic.MLLib.Common.IO.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.IO\bin\Debug\Dasmic.MLLib.Common.IO.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.IO\obj\Debug\Dasmic.MLLib.Common.IO.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.IO\obj\Debug\Dasmic.MLLib.Common.IO.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.IO\obj\Debug\Dasmic.MLLib.Common.IO.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.IO\bin\Debug\Dasmic.MLLib.Common.IO.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.IO\bin\Debug\Dasmic.MLLib.Common.IO.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.IO\obj\Debug\Dasmic.MLLib.Common.IO.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.IO\obj\Debug\Dasmic.MLLib.Common.IO.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.IO\obj\Debug\Dasmic.MLLib.Common.IO.pdb

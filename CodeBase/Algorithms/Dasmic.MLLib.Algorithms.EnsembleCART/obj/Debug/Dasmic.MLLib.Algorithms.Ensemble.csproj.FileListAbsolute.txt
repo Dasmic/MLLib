@@ -1,0 +1,15 @@
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\bin\Debug\Dasmic.MLLib.Algorithms.Ensemble.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\bin\Debug\Dasmic.MLLib.Algorithms.Ensemble.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\bin\Debug\Dasmic.MLLib.Algorithms.DecisionTree.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\bin\Debug\Dasmic.MLLib.Common.MLCore.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\bin\Debug\Dasmic.Portable.Core.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\bin\Debug\Dasmic.MLLib.Common.Exceptions.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\bin\Debug\Dasmic.MLLib.Math.Statistics.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\bin\Debug\Dasmic.MLLib.Common.MLCore.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\bin\Debug\Dasmic.Portable.Core.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\bin\Debug\Dasmic.MLLib.Algorithms.DecisionTree.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\bin\Debug\Dasmic.MLLib.Common.Exceptions.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\bin\Debug\Dasmic.MLLib.Math.Statistics.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\obj\Debug\Dasmic.MLLib.Algorithms.Ensemble.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\obj\Debug\Dasmic.MLLib.Algorithms.Ensemble.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Algorithms\Dasmic.MLLib.Algorithms.Ensemble\obj\Debug\Dasmic.MLLib.Algorithms.Ensemble.pdb

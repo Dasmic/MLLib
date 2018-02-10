@@ -1,0 +1,14 @@
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Exceptions\bin\Debug\Dasmic.MLLib.Common.Exceptions.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Exceptions\bin\Debug\Dasmic.MLLib.Common.Exceptions.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Exceptions\obj\Debug\Dasmic.MLLib.Common.Exceptions.Resources.strings_messages.resources
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Exceptions\obj\Debug\Dasmic.MLLib.Common.Exceptions.csproj.GenerateResource.Cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Exceptions\obj\Debug\Dasmic.MLLib.Common.Exceptions.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Exceptions\obj\Debug\Dasmic.MLLib.Common.Exceptions.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Exceptions\obj\Debug\Dasmic.MLLib.Common.Exceptions.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.Exceptions\bin\Debug\Dasmic.MLLib.Common.Exceptions.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.Exceptions\bin\Debug\Dasmic.MLLib.Common.Exceptions.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.Exceptions\obj\Debug\Dasmic.MLLib.Common.Exceptions.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.Exceptions\obj\Debug\Dasmic.MLLib.Common.Exceptions.Resources.strings_messages.resources
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.Exceptions\obj\Debug\Dasmic.MLLib.Common.Exceptions.csproj.GenerateResource.Cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.Exceptions\obj\Debug\Dasmic.MLLib.Common.Exceptions.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.MLLib.Common.Exceptions\obj\Debug\Dasmic.MLLib.Common.Exceptions.pdb

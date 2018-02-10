@@ -1,0 +1,10 @@
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\FileOperationsLibTest\bin\Debug\FileOperationsLibTest.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\FileOperationsLibTest\bin\Debug\FileOperationsLibTest.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\FileOperationsLibTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\FileOperationsLibTest\obj\Debug\FileOperationsLibTest.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\FileOperationsLibTest\obj\Debug\FileOperationsLibTest.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\FileOperationsLibTest\obj\Debug\FileOperationsLibTest.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\FileOperationsLibTest\bin\Debug\Dasmic.MLLib.FileOperations.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\FileOperationsLibTest\bin\Debug\Dasmic.MLLib.FileOperations.Windows.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\FileOperationsLibTest\bin\Debug\Dasmic.MLLib.FileOperations.Windows.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\FileOperationsLibTest\bin\Debug\Dasmic.MLLib.FileOperations.pdb

@@ -1,0 +1,13 @@
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.DiscriminantAnalysis\obj\Debug\Dasmic.MLLib.DiscriminantAnalysis.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.DiscriminantAnalysis\bin\Debug\Dasmic.MLLib.DiscriminantAnalysis.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.DiscriminantAnalysis\bin\Debug\Dasmic.MLLib.DiscriminantAnalysis.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.DiscriminantAnalysis\bin\Debug\Dasmic.MLLib.Exceptions.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.DiscriminantAnalysis\bin\Debug\Dasmic.MLLib.MLCore.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.DiscriminantAnalysis\bin\Debug\Dasmic.MLLib.Statistics.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.DiscriminantAnalysis\bin\Debug\Dasmic.MLLib.Exceptions.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.DiscriminantAnalysis\bin\Debug\Dasmic.MLLib.MLCore.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.DiscriminantAnalysis\bin\Debug\Dasmic.MLLib.Statistics.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.DiscriminantAnalysis\obj\Debug\Dasmic.MLLib.DiscriminantAnalysis.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.DiscriminantAnalysis\obj\Debug\Dasmic.MLLib.DiscriminantAnalysis.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.DiscriminantAnalysis\bin\Debug\Dasmic.MLLib.Matrix.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Algorithms\Dasmic.MLLib.DiscriminantAnalysis\bin\Debug\Dasmic.MLLib.Matrix.pdb

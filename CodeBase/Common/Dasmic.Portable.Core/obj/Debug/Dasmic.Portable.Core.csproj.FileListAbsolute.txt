@@ -1,0 +1,15 @@
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.Portable.Core\bin\Debug\Dasmic.Core.dll
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.Portable.Core\bin\Debug\Dasmic.Core.pdb
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.Portable.Core\obj\Debug\Dasmic.Portable.Core.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.Portable.Core\obj\Debug\Dasmic.Core.dll
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.Portable.Core\obj\Debug\Dasmic.Core.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Common\Dasmic.Portable.Core\bin\Debug\Dasmic.Core.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Common\Dasmic.Portable.Core\bin\Debug\Dasmic.Core.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Common\Dasmic.Portable.Core\obj\Debug\Dasmic.Portable.Core.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Common\Dasmic.Portable.Core\obj\Debug\Dasmic.Core.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Common\Dasmic.Portable.Core\obj\Debug\Dasmic.Core.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.Portable.Core\bin\Debug\Dasmic.Portable.Core.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.Portable.Core\bin\Debug\Dasmic.Portable.Core.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.Portable.Core\obj\Debug\Dasmic.Portable.Core.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.Portable.Core\obj\Debug\Dasmic.Portable.Core.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.Portable.Core\obj\Debug\Dasmic.Portable.Core.csprojResolveAssemblyReference.cache

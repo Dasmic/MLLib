@@ -1,0 +1,12 @@
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Matrix\bin\Debug\Dasmic.MLLib.Exceptions.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Matrix\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Matrix\bin\Debug\Dasmic.MLLib.Exceptions.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Matrix\obj\Debug\UnitTests.MLLib.Algorithms.Matrix.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Matrix\bin\Debug\UnitTests.MLLib.Algorithms.Matrix.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Matrix\bin\Debug\UnitTests.MLLib.Algorithms.Matrix.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Matrix\obj\Debug\UnitTests.MLLib.Algorithms.Matrix.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Matrix\obj\Debug\UnitTests.MLLib.Algorithms.Matrix.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Matrix\bin\Debug\Dasmic.Core.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Matrix\bin\Debug\Dasmic.Core.pdb
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Matrix\bin\Debug\Dasmic.MLLib.Matrix.dll
+C:\Dasmic\Development\NET\MachineLearning\UnitTests\Algorithms\UnitTests.MLLib.Algorithms.Matrix\bin\Debug\Dasmic.MLLib.Matrix.pdb

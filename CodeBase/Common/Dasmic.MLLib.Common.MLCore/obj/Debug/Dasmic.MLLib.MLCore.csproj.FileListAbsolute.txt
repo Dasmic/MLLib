@@ -1,0 +1,14 @@
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.MLLib.MLCore\obj\Debug\Dasmic.MLLib.MLCore.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.MLLib.MLCore\bin\Debug\Dasmic.MLLib.MLCore.dll
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.MLLib.MLCore\bin\Debug\Dasmic.MLLib.MLCore.pdb
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.MLLib.MLCore\bin\Debug\Dasmic.MLLib.Exceptions.dll
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.MLLib.MLCore\bin\Debug\Dasmic.MLLib.Exceptions.pdb
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.MLLib.MLCore\obj\Debug\Dasmic.MLLib.MLCore.dll
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.MLLib.MLCore\obj\Debug\Dasmic.MLLib.MLCore.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Common\Dasmic.MLLib.MLCore\bin\Debug\Dasmic.MLLib.MLCore.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Common\Dasmic.MLLib.MLCore\bin\Debug\Dasmic.MLLib.MLCore.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Common\Dasmic.MLLib.MLCore\bin\Debug\Dasmic.MLLib.Exceptions.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Common\Dasmic.MLLib.MLCore\bin\Debug\Dasmic.MLLib.Exceptions.pdb
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Common\Dasmic.MLLib.MLCore\obj\Debug\Dasmic.MLLib.MLCore.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Common\Dasmic.MLLib.MLCore\obj\Debug\Dasmic.MLLib.MLCore.dll
+C:\Dasmic\Development\NET\MachineLearning\Codebase\Common\Dasmic.MLLib.MLCore\obj\Debug\Dasmic.MLLib.MLCore.pdb

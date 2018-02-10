@@ -1,0 +1,5 @@
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.Portable.Core\bin\Release\Dasmic.Portable.Core.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.Portable.Core\bin\Release\Dasmic.Portable.Core.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.Portable.Core\obj\Release\Dasmic.Portable.Core.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.Portable.Core\obj\Release\Dasmic.Portable.Core.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Common\Dasmic.Portable.Core\obj\Release\Dasmic.Portable.Core.pdb

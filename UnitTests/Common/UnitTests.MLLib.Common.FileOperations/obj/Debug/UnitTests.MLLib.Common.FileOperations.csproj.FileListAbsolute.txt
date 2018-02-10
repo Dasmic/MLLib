@@ -1,0 +1,12 @@
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Common\UnitTests.MLLib.Common.FileOperations\obj\Debug\UnitTests.MLLib.Common.FileOperations.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Common\UnitTests.MLLib.Common.FileOperations\obj\Debug\FileOperationsLibTest.dll
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Common\UnitTests.MLLib.Common.FileOperations\obj\Debug\FileOperationsLibTest.pdb
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Common\UnitTests.MLLib.Common.FileOperations\bin\Debug\FileOperationsLibTest.dll
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Common\UnitTests.MLLib.Common.FileOperations\bin\Debug\FileOperationsLibTest.pdb
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Common\UnitTests.MLLib.Common.FileOperations\bin\Debug\Dasmic.MLLib.Common.IO.dll
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Common\UnitTests.MLLib.Common.FileOperations\bin\Debug\Dasmic.MLLib.Common.IO.Windows.dll
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Common\UnitTests.MLLib.Common.FileOperations\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Common\UnitTests.MLLib.Common.FileOperations\bin\Debug\Dasmic.MLLib.Common.IO.Windows.pdb
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Common\UnitTests.MLLib.Common.FileOperations\bin\Debug\Dasmic.MLLib.Common.IO.pdb
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Common\UnitTests.MLLib.Common.FileOperations\bin\Debug\Dasmic.MLLib.Common.Exceptions.dll
+C:\Dasmic\Development\NET\MLLib.NET\UnitTests\Common\UnitTests.MLLib.Common.FileOperations\bin\Debug\Dasmic.MLLib.Common.Exceptions.pdb

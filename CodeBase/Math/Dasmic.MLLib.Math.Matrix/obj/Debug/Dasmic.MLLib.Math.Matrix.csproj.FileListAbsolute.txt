@@ -1,0 +1,9 @@
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Matrix\obj\Debug\Dasmic.MLLib.Math.Matrix.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Matrix\bin\Debug\Dasmic.MLLib.Math.Matrix.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Matrix\bin\Debug\Dasmic.MLLib.Math.Matrix.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Matrix\bin\Debug\Dasmic.MLLib.Common.Exceptions.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Matrix\bin\Debug\Dasmic.MLLib.Common.Exceptions.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Matrix\obj\Debug\Dasmic.MLLib.Math.Matrix.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Matrix\obj\Debug\Dasmic.MLLib.Math.Matrix.pdb
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Matrix\bin\Debug\Dasmic.Portable.Core.dll
+C:\Dasmic\Development\NET\MLLib.NET\CodeBase\Math\Dasmic.MLLib.Math.Matrix\bin\Debug\Dasmic.Portable.Core.pdb

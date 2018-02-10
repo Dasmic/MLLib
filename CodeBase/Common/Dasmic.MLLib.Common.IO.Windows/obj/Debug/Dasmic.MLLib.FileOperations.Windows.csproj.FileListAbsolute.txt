@@ -1,0 +1,7 @@
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.MLLib.FileOperations.Windows\bin\Debug\Dasmic.MLLib.FileOperations.Windows.dll
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.MLLib.FileOperations.Windows\bin\Debug\Dasmic.MLLib.FileOperations.Windows.pdb
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.MLLib.FileOperations.Windows\bin\Debug\Dasmic.MLLib.FileOperations.dll
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.MLLib.FileOperations.Windows\bin\Debug\Dasmic.MLLib.FileOperations.pdb
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.MLLib.FileOperations.Windows\obj\Debug\Dasmic.MLLib.FileOperations.Windows.csprojResolveAssemblyReference.cache
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.MLLib.FileOperations.Windows\obj\Debug\Dasmic.MLLib.FileOperations.Windows.dll
+C:\Dasmic\Development\NET\MachineLearning\Dasmic.MLLib.FileOperations.Windows\obj\Debug\Dasmic.MLLib.FileOperations.Windows.pdb

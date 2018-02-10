@@ -1,0 +1,100 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETPortable,Version=v4.5,Profile=Profile7": {
+      "Dasmic.MLLib.Common.Exceptions/1.0.0": {
+        "type": "project"
+      },
+      "Dasmic.MLLib.Common.MLCore/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Dasmic.MLLib.Common.Exceptions": "1.0.0",
+          "Dasmic.MLLib.Math.Statistics": "1.0.0",
+          "Dasmic.Portable.Core": "1.0.0"
+        }
+      },
+      "Dasmic.MLLib.Math.Matrix/1.0.0": {
+        "type": "project",
+        "framework": ".NETPortable,Version=v4.5,Profile=Profile111",
+        "dependencies": {
+          "Dasmic.MLLib.Common.Exceptions": "1.0.0",
+          "Dasmic.Portable.Core": "1.0.0"
+        }
+      },
+      "Dasmic.MLLib.Math.Statistics/1.0.0": {
+        "type": "project",
+        "framework": ".NETPortable,Version=v4.5,Profile=Profile111",
+        "dependencies": {
+          "Dasmic.MLLib.Common.Exceptions": "1.0.0"
+        }
+      },
+      "Dasmic.Portable.Core/1.0.0": {
+        "type": "project"
+      }
+    }
+  },
+  "libraries": {
+    "Dasmic.MLLib.Common.Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../../Common/Dasmic.MLLib.Common.Exceptions/Dasmic.MLLib.Common.Exceptions.csproj",
+      "msbuildProject": "../../Common/Dasmic.MLLib.Common.Exceptions/Dasmic.MLLib.Common.Exceptions.csproj"
+    },
+    "Dasmic.MLLib.Common.MLCore/1.0.0": {
+      "type": "project",
+      "path": "../../Common/Dasmic.MLLib.Common.MLCore/Dasmic.MLLib.Common.MLCore.csproj",
+      "msbuildProject": "../../Common/Dasmic.MLLib.Common.MLCore/Dasmic.MLLib.Common.MLCore.csproj"
+    },
+    "Dasmic.MLLib.Math.Matrix/1.0.0": {
+      "type": "project",
+      "path": "../../Math/Dasmic.MLLib.Math.Matrix/project.json",
+      "msbuildProject": "../../Math/Dasmic.MLLib.Math.Matrix/Dasmic.MLLib.Math.Matrix.csproj"
+    },
+    "Dasmic.MLLib.Math.Statistics/1.0.0": {
+      "type": "project",
+      "path": "../../Math/Dasmic.MLLib.Math.Statistics/project.json",
+      "msbuildProject": "../../Math/Dasmic.MLLib.Math.Statistics/Dasmic.MLLib.Math.Statistics.csproj"
+    },
+    "Dasmic.Portable.Core/1.0.0": {
+      "type": "project",
+      "path": "../../Common/Dasmic.Portable.Core/Dasmic.Portable.Core.csproj",
+      "msbuildProject": "../../Common/Dasmic.Portable.Core/Dasmic.Portable.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "": [],
+    ".NETPortable,Version=v4.5,Profile=Profile7": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Chaitanya Belwal\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "restore": {
+      "projectUniqueName": "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Algorithms\\Dasmic.MLLib.Algorithms.DiscriminantAnalysis\\Dasmic.MLLib.Algorithms.DiscriminantAnalysis.csproj",
+      "projectName": "Dasmic.MLLib.Algorithms.DiscriminantAnalysis",
+      "projectPath": "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Algorithms\\Dasmic.MLLib.Algorithms.DiscriminantAnalysis\\Dasmic.MLLib.Algorithms.DiscriminantAnalysis.csproj",
+      "projectJsonPath": "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Algorithms\\Dasmic.MLLib.Algorithms.DiscriminantAnalysis\\project.json",
+      "projectStyle": "ProjectJson",
+      "frameworks": {
+        "portable45-net45+win8": {
+          "projectReferences": {
+            "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Common\\Dasmic.MLLib.Common.Exceptions\\Dasmic.MLLib.Common.Exceptions.csproj": {
+              "projectPath": "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Common\\Dasmic.MLLib.Common.Exceptions\\Dasmic.MLLib.Common.Exceptions.csproj"
+            },
+            "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Common\\Dasmic.MLLib.Common.MLCore\\Dasmic.MLLib.Common.MLCore.csproj": {
+              "projectPath": "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Common\\Dasmic.MLLib.Common.MLCore\\Dasmic.MLLib.Common.MLCore.csproj"
+            },
+            "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Math\\Dasmic.MLLib.Math.Matrix\\Dasmic.MLLib.Math.Matrix.csproj": {
+              "projectPath": "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Math\\Dasmic.MLLib.Math.Matrix\\Dasmic.MLLib.Math.Matrix.csproj"
+            },
+            "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Math\\Dasmic.MLLib.Math.Statistics\\Dasmic.MLLib.Math.Statistics.csproj": {
+              "projectPath": "C:\\Dasmic\\Development\\NET\\MLLib.NET\\CodeBase\\Math\\Dasmic.MLLib.Math.Statistics\\Dasmic.MLLib.Math.Statistics.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "portable45-net45+win8": {}
+    }
+  }
+}
