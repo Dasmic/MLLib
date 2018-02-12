@@ -1,3 +1,0 @@
-- Resume work on GetValue function in FC Layer
-
- 
